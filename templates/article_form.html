@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if form.instance.pk %}Edit Article{% else %}Create New Article{% endif %}</title>
+</head>
+<body>
+<h1>{% if form.instance.pk %}Edit Article{% else %}Create New Article{% endif %}</h1>
+<form method="post">
+    {% csrf_token %}
+    <label for="id_title">Title:</label><br>
+    <input type="text" id="id_title" name="title" value="{{ form.instance.title }}"><br><br>
+    <label for="id_content">Content:</label><br>
+    <textarea id="id_content" name="content" rows="10" cols="50">{{ form.instance.content }}</textarea><br><br>
+    <label for="id_markdown_content">Markdown content:</label><br>
+    <textarea id="id_markdown_content" name="markdown_content" rows="10" cols="50">{{ form.instance.markdown_content }}</textarea><br><br>
+{##}
+{#    {% for iso_link, iso_date in iso_links %}#}
+{#        <label for="{{ iso_link }}">{{ iso_link }}</label>#}
+{#        <input type="text" id="{{ iso_link }}" name="{{ iso_link }}" value="{{ iso_date }}"><br><br>#}
+{#    {% endfor %}#}
+    <button type="submit">Submit</button>
+</form>
+</body>
+</html>
