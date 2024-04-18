@@ -1,0 +1,188 @@
+Context: <p>Дистрибутив <a href="https://reestr.digital.gov.ru/search/?q=calculate">включён</a> в Единый реестр российских программ для электронных вычислительных машин и баз данных.</p>
+<div class="row grid-type-default ">
+<div class="col-sm " style="min-width: 350px">
+<h2 id="calculate_linux_desktop">Calculate Linux Desktop</h2>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop KDE" src="/download_images/original/kde.jpg" title="Calculate Linux Desktop KDE" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="kde_edition">KDE Edition</h3>
+<ul>
+<li><a href="{{ CLD ISO: LINK }}">Скачать CLD версию 20240411 x86_64</a> (3.3 GiB) <a href="https://mirror.calculate-linux.org/release/20240411/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240411/SHA512SUMS">SHA512</a>, <a href="{{ CLD LIST: LINK }}">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop Cinnamon" src="/download_images/original/cinnamon.png" title="Calculate Linux Desktop Cinnamon" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="cinnamon_edition">Cinnamon Edition</h3>
+<ul>
+<li><a href="{{ CLDC ISO: LINK }}">Скачать CLD версию 20240411 x86_64</a> {{ CLDC:SIZE }} <a href="https://mirror.calculate-linux.org/release/20240411/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240411/SHA512SUMS">SHA512</a>, <a href="{{ CLDC LIST: LINK }}">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop LXQt" src="/download_images/original/lxqt.jpg" title="Calculate Linux Desktop LXQt" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="lxqt_edition">LXQt Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldl-20240408-x86_64.iso">Скачать CLDL 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldl-20240408-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop MATE" src="/download_images/original/mate.jpg" title="Calculate Linux Desktop MATE" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="mate_edition">MATE Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldm-20240408-x86_64.iso">Скачать CLDM 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldm-20240404-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop Xfce" src="/download_images/original/xfce.jpg" title="Calculate Linux Desktop Xfce" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="xfce_edition">Xfce Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldx-20240408-x86_64.iso">Скачать CLDX 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldx-20240408-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-sm " style="min-width: 350px">
+<h2 id="calculate_linux_scratch">Calculate Linux Scratch</h2>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Scratch" src="/download_images/original/xorg.jpg" title="Calculate Linux Scratch" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="scratch_edition">Scratch Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cls-20240408-x86_64.iso">Скачать CLS 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cls-20240401-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<h2 id="drugie_redaktsii">Другие редакции</h2>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop Xfce Scientific" src="/download_images/original/xfce.jpg" title="Calculate Linux Desktop Xfce Scientific" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="xfce_edition_scientific">Xfce Edition Scientific</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldxs-20240408-x86_64.iso">Скачать CLDXS 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldxs-20240408-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr />
+<div class="row grid-type-default ">
+<div class="col-sm ">
+<h5 id="vospolzuites_blizhaishim_zerkalom_dlia_zagruzki_distributiva_po_http_ftp_zerkala">Воспользуйтесь ближайшим зеркалом для загрузки дистрибутива по HTTP/FTP <a href="mirrors"><i class="fas fa-globe"></i> Зеркала</a></h5>
+<h5 id="predostavit_svoio_zerkalo_instruktsiia">Предоставить своё зеркало <a href="participate"><i class="fas fa-calendar-plus"></i> Инструкция</a></h5>
+</div>
+</div>
+ Article_content: <p>Дистрибутив <a href="https://reestr.digital.gov.ru/search/?q=calculate">включён</a> в Единый реестр российских программ для электронных вычислительных машин и баз данных.</p>
+<div class="row grid-type-default ">
+<div class="col-sm " style="min-width: 350px">
+<h2 id="calculate_linux_desktop">Calculate Linux Desktop</h2>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop KDE" src="/download_images/original/kde.jpg" title="Calculate Linux Desktop KDE" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="kde_edition">KDE Edition</h3>
+<ul>
+<li><a href="{{ CLD ISO: LINK }}">Скачать CLD версию {{ release }} x86_64</a> {{ CLD:size }} <a href="{{ SHA256 }}">SHA256</a>, <a href="{{ SHA512 }}">SHA512</a>, <a href="{{ CLD LIST: LINK }}">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop Cinnamon" src="/download_images/original/cinnamon.png" title="Calculate Linux Desktop Cinnamon" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="cinnamon_edition">Cinnamon Edition</h3>
+<ul>
+<li><a href="{{ CLDC ISO: LINK }}">Скачать CLD версию {{ release }} x86_64</a> {{ CLDC:SIZE }} <a href="{{ SHA256 }}">SHA256</a>, <a href="{{ SHA512 }}">SHA512</a>, <a href="{{ CLDC LIST: LINK }}">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop LXQt" src="/download_images/original/lxqt.jpg" title="Calculate Linux Desktop LXQt" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="lxqt_edition">LXQt Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldl-20240408-x86_64.iso">Скачать CLDL 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldl-20240408-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop MATE" src="/download_images/original/mate.jpg" title="Calculate Linux Desktop MATE" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="mate_edition">MATE Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldm-20240408-x86_64.iso">Скачать CLDM 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldm-20240404-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop Xfce" src="/download_images/original/xfce.jpg" title="Calculate Linux Desktop Xfce" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="xfce_edition">Xfce Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldx-20240408-x86_64.iso">Скачать CLDX 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldx-20240408-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-sm " style="min-width: 350px">
+<h2 id="calculate_linux_scratch">Calculate Linux Scratch</h2>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Scratch" src="/download_images/original/xorg.jpg" title="Calculate Linux Scratch" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="scratch_edition">Scratch Edition</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cls-20240408-x86_64.iso">Скачать CLS 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cls-20240401-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+<h2 id="drugie_redaktsii">Другие редакции</h2>
+<div class="row grid-type-default ">
+<div class="col-sm " style="max-width: 90px; display: flex; align-items: center;">
+<p><img alt="Calculate Linux Desktop Xfce Scientific" src="/download_images/original/xfce.jpg" title="Calculate Linux Desktop Xfce Scientific" /></p>
+</div>
+<div class="col-sm ">
+<h3 id="xfce_edition_scientific">Xfce Edition Scientific</h3>
+<ul>
+<li><a href="https://mirror.calculate-linux.org/release/20240408/cldxs-20240408-x86_64.iso">Скачать CLDXS 20240408 x86_64</a><a href="https://mirror.calculate-linux.org/release/20240408/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240408/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240408/cldxs-20240408-x86_64.list">список пакетов</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<hr />
+<div class="row grid-type-default ">
+<div class="col-sm ">
+<h5 id="vospolzuites_blizhaishim_zerkalom_dlia_zagruzki_distributiva_po_http_ftp_zerkala">Воспользуйтесь ближайшим зеркалом для загрузки дистрибутива по HTTP/FTP <a href="mirrors"><i class="fas fa-globe"></i> Зеркала</a></h5>
+<h5 id="predostavit_svoio_zerkalo_instruktsiia">Предоставить своё зеркало <a href="participate"><i class="fas fa-calendar-plus"></i> Инструкция</a></h5>
+</div>
+</div>

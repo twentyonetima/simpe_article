@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>{{ article.title }}</h1>
-<p>{{ article.content |safe }}</p>
+<p>{{ modified_content |safe }}</p>
 <a href="{% url 'article_update' article.pk %}">Edit Article</a>
 <a href="{% url 'article_delete' article.pk %}">Delete Article</a>
 </body>
