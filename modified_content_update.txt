@@ -9,7 +9,7 @@ Context: <p>Дистрибутив <a href="https://reestr.digital.gov.ru/search
 <div class="col-sm ">
 <h3 id="kde_edition">KDE Edition</h3>
 <ul>
-<li><a href="{{ CLD ISO: LINK }}">Скачать CLD версию 20240411 x86_64</a> (3.3 GiB) <a href="https://mirror.calculate-linux.org/release/20240411/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240411/SHA512SUMS">SHA512</a>, <a href="{{ CLD LIST: LINK }}">список пакетов</a></li>
+<li><a href="https://mirror.calculate-linux.org/release/20240411/cld-20240411-x86_64.iso">Скачать CLD версию 20240411 x86_64</a> (3.3 GiB) <a href="https://mirror.calculate-linux.org/release/20240411/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240411/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240411/cld-20240411-x86_64.list">список пакетов</a></li>
 </ul>
 </div>
 </div>
@@ -20,7 +20,7 @@ Context: <p>Дистрибутив <a href="https://reestr.digital.gov.ru/search
 <div class="col-sm ">
 <h3 id="cinnamon_edition">Cinnamon Edition</h3>
 <ul>
-<li><a href="{{ CLDC ISO: LINK }}">Скачать CLD версию 20240411 x86_64</a> {{ CLDC:SIZE }} <a href="https://mirror.calculate-linux.org/release/20240411/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240411/SHA512SUMS">SHA512</a>, <a href="{{ CLDC LIST: LINK }}">список пакетов</a></li>
+<li><a href="https://mirror.calculate-linux.org/release/20240411/cldc-20240411-x86_64.iso">Скачать CLD версию 20240411 x86_64</a> (3.0 GiB) <a href="https://mirror.calculate-linux.org/release/20240411/SHA256SUMS">SHA256</a>, <a href="https://mirror.calculate-linux.org/release/20240411/SHA512SUMS">SHA512</a>, <a href="https://mirror.calculate-linux.org/release/20240411/cldc-20240411-x86_64.list">список пакетов</a></li>
 </ul>
 </div>
 </div>
@@ -103,7 +103,7 @@ Context: <p>Дистрибутив <a href="https://reestr.digital.gov.ru/search
 <div class="col-sm ">
 <h3 id="kde_edition">KDE Edition</h3>
 <ul>
-<li><a href="{{ CLD ISO: LINK }}">Скачать CLD версию {{ release }} x86_64</a> {{ CLD:size }} <a href="{{ SHA256 }}">SHA256</a>, <a href="{{ SHA512 }}">SHA512</a>, <a href="{{ CLD LIST: LINK }}">список пакетов</a></li>
+<li><a href="{{ CLD:iso }}">Скачать CLD версию {{ release }} x86_64</a> {{ CLD:size }} <a href="{{ SHA256 }}">SHA256</a>, <a href="{{ SHA512 }}">SHA512</a>, <a href="{{ CLD:list }}">список пакетов</a></li>
 </ul>
 </div>
 </div>
@@ -114,7 +114,7 @@ Context: <p>Дистрибутив <a href="https://reestr.digital.gov.ru/search
 <div class="col-sm ">
 <h3 id="cinnamon_edition">Cinnamon Edition</h3>
 <ul>
-<li><a href="{{ CLDC ISO: LINK }}">Скачать CLD версию {{ release }} x86_64</a> {{ CLDC:SIZE }} <a href="{{ SHA256 }}">SHA256</a>, <a href="{{ SHA512 }}">SHA512</a>, <a href="{{ CLDC LIST: LINK }}">список пакетов</a></li>
+<li><a href="{{ CLDC:iso }}">Скачать CLD версию {{ release }} x86_64</a> {{ CLDC:size }} <a href="{{ SHA256 }}">SHA256</a>, <a href="{{ SHA512 }}">SHA512</a>, <a href="{{ CLDC:list }}">список пакетов</a></li>
 </ul>
 </div>
 </div>

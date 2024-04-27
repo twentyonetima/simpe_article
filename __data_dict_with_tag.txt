@@ -1,0 +1,34 @@
+SHA256: https://mirror.calculate-linux.org/release/20240420/SHA256SUMS
+SHA512: https://mirror.calculate-linux.org/release/20240420/SHA512SUMS
+CCM:iso: https://mirror.calculate-linux.org/release/20240420/ccm-20240420-x86_64.iso
+CCM:size: 759.0 MiB
+CCM:list: https://mirror.calculate-linux.org/release/20240420/ccm-20240420-x86_64.list
+CDS:iso: https://mirror.calculate-linux.org/release/20240420/cds-20240420-x86_64.iso
+CDS:size: 979.0 MiB
+CDS:list: https://mirror.calculate-linux.org/release/20240420/cds-20240420-x86_64.list
+CLD:iso: https://mirror.calculate-linux.org/release/20240420/cld-20240420-x86_64.iso
+CLD:size: 3.3 GiB
+CLD:list: https://mirror.calculate-linux.org/release/20240420/cld-20240420-x86_64.list
+CLDC:iso: https://mirror.calculate-linux.org/release/20240420/cldc-20240420-x86_64.iso
+CLDC:size: 3.0 GiB
+CLDC:list: https://mirror.calculate-linux.org/release/20240420/cldc-20240420-x86_64.list
+CLDL:iso: https://mirror.calculate-linux.org/release/20240420/cldl-20240420-x86_64.iso
+CLDL:size: 3.0 GiB
+CLDL:list: https://mirror.calculate-linux.org/release/20240420/cldl-20240420-x86_64.list
+CLDM:iso: https://mirror.calculate-linux.org/release/20240420/cldm-20240420-x86_64.iso
+CLDM:size: 3.1 GiB
+CLDM:list: https://mirror.calculate-linux.org/release/20240420/cldm-20240420-x86_64.list
+CLDX:iso: https://mirror.calculate-linux.org/release/20240420/cldx-20240420-x86_64.iso
+CLDX:size: 2.9 GiB
+CLDX:list: https://mirror.calculate-linux.org/release/20240420/cldx-20240420-x86_64.list
+CLDXS:iso: https://mirror.calculate-linux.org/release/20240420/cldxs-20240420-x86_64.iso
+CLDXS:size: 3.4 GiB
+CLDXS:list: https://mirror.calculate-linux.org/release/20240420/cldxs-20240420-x86_64.list
+CLS:iso: https://mirror.calculate-linux.org/release/20240420/cls-20240420-x86_64.iso
+CLS:size: 1.8 GiB
+CLS:list: https://mirror.calculate-linux.org/release/20240420/cls-20240420-x86_64.list
+CSS:iso: https://mirror.calculate-linux.org/release/20240420/css-20240420-x86_64.iso
+CSS:size: 741.0 MiB
+CSS:list: https://mirror.calculate-linux.org/release/20240420/css-20240420-x86_64.list
+release: 20240420
+mirror: https://mirror.calculate-linux.org/release/20240420/

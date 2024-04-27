@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if form.instance.pk %}Edit Article{% else %}Create New Article{% endif %}</title>
+    <style>
+        #preview-section {
+            display: none;
+        }
+    </style>
 </head>
 <body>
 <h1>{% if form.instance.pk %}Edit Article{% else %}Create New Article{% endif %}</h1>
@@ -15,12 +20,63 @@
     <textarea id="id_content" name="content" rows="10" cols="50">{{ form.instance.content }}</textarea><br><br>
     <label for="id_markdown_content">Markdown content:</label><br>
     <textarea id="id_markdown_content" name="markdown_content" rows="10" cols="50">{{ form.instance.markdown_content }}</textarea><br><br>
-{##}
-{#    {% for iso_link, iso_date in iso_links %}#}
-{#        <label for="{{ iso_link }}">{{ iso_link }}</label>#}
-{#        <input type="text" id="{{ iso_link }}" name="{{ iso_link }}" value="{{ iso_date }}"><br><br>#}
-{#    {% endfor %}#}
     <button type="submit">Submit</button>
+    <button type="button" id="preview-btn">Preview</button>
 </form>
+
+<div id="preview-section">
+    <h2>Preview</h2>
+    <div id="preview-content"></div>
+</div>
+
+<script>
+    document.getElementById("preview-btn").addEventListener("click", function() {
+        var title = document.getElementById("id_title").value;
+        var content = document.getElementById("id_content").value;
+
+        // Make an AJAX request to modify the content
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "{% url 'modify_content' %}", true);
+
+        // Get CSRF token from cookie
+        var csrftoken = getCookie('csrftoken');
+
+
+        // Set request headers
+        xhr.setRequestHeader("X-CSRFToken", csrftoken);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var modifiedContent = JSON.parse(xhr.responseText).modified_content;
+
+                document.getElementById("preview-section").style.display = "block";
+                console.log(modifiedContent)
+
+                document.getElementById("preview-content").innerHTML = "<h3>" + title + "</h3><p>" + modifiedContent + "</p>";
+            }
+        };
+        xhr.send("content=" + encodeURIComponent(content));
+    });
+
+    // Function to get CSRF token from cookie
+    function getCookie(name) {
+        var cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = cookies[i].trim();
+                if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+</script>
+
+
+
 </body>
 </html>

@@ -1,0 +1,25 @@
+Failed to fetch data. Please try again later. 
+2024-04-22 14:39:23 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/release/2024/
+2024-04-22 14:39:23 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/release/2024/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:43:20 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/release/2024/
+2024-04-22 14:43:20 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/release/2024/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:49:33 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/
+2024-04-22 14:49:33 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/20240411/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:49:55 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/
+2024-04-22 14:49:55 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/20240411/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:49:56 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/
+2024-04-22 14:49:56 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/20240411/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:49:57 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/
+2024-04-22 14:49:57 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/20240411/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:49:58 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/
+2024-04-22 14:49:58 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/20240411/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
+2024-04-22 14:50:55 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/
+2024-04-22 14:50:55 - Error fetching webpage: 404 Client Error: Not Found for url: https://mirror.calculate-linux.org/released/20240411/
+An error occurred while generating the dictionary: object of type 'NoneType' has no len()
